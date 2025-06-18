@@ -27,3 +27,24 @@ To build an interactive Power BI dashboard by analyzing multiple datasets relate
 - **DAX Measures** – KPIs, YTD totals, % change  
 - **Slicers & Filters** – Interactive elements  
 - **Wireframing** – For layout design before implementation
+
+
+---
+
+## 🚀 Outcome
+
+- Built a clean, user-friendly dashboard with slicers, KPIs, and charts  
+- Visualized answers to 8+ business questions  
+- Applied strong data storytelling principles  
+- Achieved 100% accuracy based on project objectives
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 [prakhargoud988@gmail.com](mailto:prakhargoud988@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prakhar-goud)
+
+---
+
+*Feel free to explore, fork, or provide feedback. I’m always open to collaboration and suggestions!*
